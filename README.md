@@ -4,10 +4,10 @@
 
 Juju charm scanner for any2api
 
-    npm install any2api-scanner-juju
+    any2api install scanner any2api-scanner-juju
 
 
 
 ## How to use any2api
 
-See [any2api-cli](https://www.github.com/any2api/any2api-cli) for how to use any2api from the command line.
+See [any2api.org](http://any2api.org) for more information about any2api.
